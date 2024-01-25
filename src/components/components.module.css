@@ -1,0 +1,33 @@
+.univ {
+    list-style: none;
+    text-decoration: none;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper .sidebar {
+    transition: all 0.5s ease;
+}
+
+.wrapper  .sidebar .icons {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.wrapper .sidebar .icons img {
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin: 0 auto;
+}
+
+.wrapper .sidebar .profile h3 {
+    color: #fff;
+    margin: 10px 0 5pcs;
+}
+
+
+
+
